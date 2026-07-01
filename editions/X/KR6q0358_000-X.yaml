@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0358/x/v1/juan/0
+seq: 0
+front:
+  text: 丹霞淳禪師語錄序我宗無語句亦無一法與人然於無法之中而立五位三玄之法於無語之中而作呵佛罵祖之說雷砰電射魔外不能窺海湧雲屯龍宮不得藏然未嘗始涉唇吻立文字矣能具此機宏唱五位君臣之法橫說豎說如轉圓石於千仞之上不留其蹤者丹霞淳禪師是也茲師遠裔良機恐其語錄歲久湮沒依舊本參考訂正一新繡梓以永流播因問序於余不以不文辭而謹書之以冠卷首庶幾後學之輩別須具眼子細看取切勿向語言文字求解會焉旹寶永庚寅孟陬下澣萬山祖緣拜手敬題
+  hash: sha256:bc361cce442fc2fd6f1319a3695190889ecf27d0a612cfaae42f8a35f61d5078
+  markers:
+  - {type: 序, offset: 0, content: No. 1425-A 丹霞淳禪師語錄序, id: KR6q0358_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 丹霞子淳禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X71/X71n1425.xml
+    old_id: X71n1425
+hash: sha256:1ad0cd6b09f88d222561a92bf4af6a20549711f673dfad99c0c7be526d960f7e

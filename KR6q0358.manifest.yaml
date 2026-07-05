@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0358_000.yaml, hash: 'sha256:72c728d03f8bcddb569fcfb1f72503bcea29c52b5aaa2efb4dce30109b7e112c'}
-  - {seq: 1, filename: KR6q0358_001.yaml, hash: 'sha256:8a4009fb3074268f494052c8f87068452d8a260840a586ea9a642486c3d5cbf2'}
-  - {seq: 2, filename: KR6q0358_002.yaml, hash: 'sha256:3ba56d8e110bd2c83e71559a08df712217c0f27dfd3055a68480a998adb2ad70'}
+  - {seq: 0, filename: KR6q0358_000.yaml, hash: 'sha256:1ad0cd6b09f88d222561a92bf4af6a20549711f673dfad99c0c7be526d960f7e'}
+  - {seq: 1, filename: KR6q0358_001.yaml, hash: 'sha256:9b1c4c789d60f9284f5f8b756304276bc2e35f4817ca8a5e36c980536c818ee3'}
+  - {seq: 2, filename: KR6q0358_002.yaml, hash: 'sha256:c1136efe0256008e7a1210361f955e5690545fbaf7348a4c47fafd15ef7f24cd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0358_000.markers.yaml, hash: 'sha256:9b55d79d452098bf06b678b488cf934f903b4eea53642785cecbd32cc9a3ddd8'}
-  - {seq: 1, role: markers, filename: assets/KR6q0358_001.markers.yaml, hash: 'sha256:57993f359f05e993d5b73a2ff113114f95b782b7202fa4174bdf887b887520e7'}
-  - {seq: 2, role: markers, filename: assets/KR6q0358_002.markers.yaml, hash: 'sha256:3d667a6507d627532b4321bcdf9b26e673fea36b937d385273573fd2ff486d20'}
+  - {seq: 0, role: markers, filename: assets/KR6q0358_000.markers.yaml, hash: 'sha256:8e3359204b1df09b5ca9f1881ad5072372719cb8edb5437888ec5b2c9185fd75'}
+  - {seq: 1, role: markers, filename: assets/KR6q0358_001.markers.yaml, hash: 'sha256:582efa325ca138bee91fa3a3b0cd6f2e214b24c6c1914c4efcf7b8a4d7d1c83e'}
+  - {seq: 2, role: markers, filename: assets/KR6q0358_002.markers.yaml, hash: 'sha256:2aa098c38716a2f19871ea79b9fa5f9bc091bf0422707bf60f82b1a0fc3190d8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -689,7 +689,4 @@ table_of_contents:
   label: 頌古
   type: mulu
   level: 1
-hash: sha256:ca41684da9d4ce2828fe0d424ea8f6e252c3d0a56d481428e715a8d7585f7c0a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d0cebee79c3bb55fd1451ba0401494b93cae0fe843f08e551182911dc687de0b

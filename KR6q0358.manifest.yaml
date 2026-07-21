@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0358_000.yaml, hash: 'sha256:210b73c569829cf21879a70de83ea0037d3a0a4a6f038435c049a0ede4ec6acd'}
+  - {seq: 0, filename: KR6q0358_000.yaml, hash: 'sha256:0d9f476bf4d5130fcf6ee88280b1a34cb078a61c683238f2e1822ad5e7ef6f85'}
   - {seq: 1, filename: KR6q0358_001.yaml, hash: 'sha256:fbc51879fababdfcb97fab6807bbd0358695b649bd605ad788afad7775d401da'}
   - {seq: 2, filename: KR6q0358_002.yaml, hash: 'sha256:443f7d3fc8ecb01600a2d8917ef3e1b5977a30b3a0bd4b8f5bc079c863cedad9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0358_000.markers.yaml, hash: 'sha256:bd1cb3c378a711533ec5cb579ae75dc4b2f7e31de509b03f4a86a69684157005'}
+  - {seq: 0, role: markers, filename: assets/KR6q0358_000.markers.yaml, hash: 'sha256:dee91f52b5adafa153f61b1231ddd4a8204770639fbd257cc132bb5b1f0b6ecf'}
   - {seq: 1, role: markers, filename: assets/KR6q0358_001.markers.yaml, hash: 'sha256:4b6e4e6e41b62156f1eea4da06d40e41db4a153a3190f6471323ce2398293253'}
   - {seq: 2, role: markers, filename: assets/KR6q0358_002.markers.yaml, hash: 'sha256:aaa57dd9adc5b55bb223812ef721604d498ea3b6f5400ebf2d9ff27caa7b0364'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0358_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1425-A 丹霞淳禪師語錄序
@@ -689,7 +689,7 @@ table_of_contents:
   label: 頌古
   type: mulu
   level: 1
-hash: sha256:796a7534bef6c578be8e85bbc12522b9a0c5dff1706bca4e6957fcaedeee227b
+hash: sha256:e2288763a4bd33f6f8abd0ffec4b96f7d6ef0c722ec00b4c592ec63ef18e1f9d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
